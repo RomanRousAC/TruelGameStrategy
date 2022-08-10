@@ -36,5 +36,7 @@ namespace TruelGame
         /// </summary>
         /// <returns>Winner</returns>
         IPlayer GetWinner();
+
+	// That's all folks
     }
 }
